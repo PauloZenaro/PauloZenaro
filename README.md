@@ -2,8 +2,6 @@
 ### Olá 👋
 
 
-Here are some ideas to get you started:
-
 - Cursando técnico em Desenvolvimento de sistemas abordando:
   - Entity Framework
     - MVC
